@@ -1,0 +1,4 @@
+1001,Alekhya,Devisetty,4,CSE
+1002,Seetha,Subramanyam,3,ECE
+1003,Krishna,Kanth,2,Mech
+1004,Arnav,Singh,1,Aeronautical
