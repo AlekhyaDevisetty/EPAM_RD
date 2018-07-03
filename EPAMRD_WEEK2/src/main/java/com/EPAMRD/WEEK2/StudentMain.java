@@ -50,7 +50,6 @@ public class StudentMain {
             student.setLastName(fieldValues[2]);
             student.setYearOfStudy(Integer.parseInt(fieldValues[3]));
             student.setDepartment(fieldValues[4]);
-            System.out.println(student.getDepartment());
 
             studentData.add(student);
         }
